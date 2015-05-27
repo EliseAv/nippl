@@ -12,7 +12,7 @@ It's intended for unattended computers playing advertising and informative media
   - You should have the file `$HOME/nippl/source/nippl.py`.
 4. Use the included sample and set up your own settings
   - `$HOME/nippl/source/config.ini`, created from `config.sample.ini`
-5. Create a custom X session ($HOME/.xsession):
+5. Create a custom X session (`$HOME/.xsession`):
   - `fluxbox &`
   - `cd nippl/source`
   - `python nippl.py`
